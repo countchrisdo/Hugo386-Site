@@ -1,1 +1,6 @@
+# Ignore Mac system files
 /.DS_Store
+
+# Ignore everything in the public directory
+/Hugo386Site/public/*
+
