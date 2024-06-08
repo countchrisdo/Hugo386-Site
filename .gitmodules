@@ -1,0 +1,3 @@
+[submodule "Hugo386Site/themes/hugo.386"]
+	path = Hugo386Site/themes/hugo.386
+	url = https://gitlab.com/jmfergeau/hugo.386
