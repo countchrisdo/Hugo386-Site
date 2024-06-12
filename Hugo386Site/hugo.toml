@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://countchrisdo.neocities.org/"
 title = "HUGO.386"
 languageCode = "en"
 DefaultContentLanguage = "en"   # Change this to change the site's language
@@ -7,29 +7,29 @@ preserveTaxonomyNames = true
 
 [params]
 # The name to display as main title in the home page
-mainpagetitle = "Welcome to the Internet!"
+mainpagetitle = "Welcome to my little place in cyber space!"
 
 # The subtitle to display under the title in the home page
 mainpagesubtitle = "Please enjoy your stay"
 
 # The description of your website. It will be displayed in the home page
-mainpagedesc = "This is a web."
+mainpagedesc = "My name is Chris aka CountChrisdo on most of the internet. This is my neocities site! I'm a web developer and I love to make websites. I'm also a huge fan of the 80s and 90s. I love retro tech and I'm a huge fan of the 386 processor. I hope you enjoy my site!"
 
 # The name to display in the copyright section in the footer
 copyrightname = "CountChrisdo / Chris Burwell"
 
 # The url to use as link in the copyright name in the footer. Leave empty to use none.
-copyrighturl = "http://crburwell.com"
+copyrighturl = ""
 
 # Show the "built on Hugo" disclaimer
-showhugo = true
+showhugo = false
 
 # Urls for social networks
 # facebook = "https://facebook.com"
-twitter = "https://twitter.com"
-linkedin = "https://linkedin.com"
-github = "https://github.com"
-gitlab = "https://gitlab.com"
+twitter = "https://twitter.com/countchrisdo"
+# linkedin = "https://linkedin.com"
+github = "https://github.com/countchrisdo"
+# gitlab = "https://gitlab.com"
 
 # Enables or disables the loading animations. false activates them. Default is false.
 loadfastload = false
