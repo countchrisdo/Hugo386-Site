@@ -55,16 +55,16 @@ suffix = ""
 [menu]
 # This displays buttons in the navbar to access your contents
 [[menu.main]]
-identifier = "about" # An unique identifier for the button
-name = "About"       # A display name for the button
-url = "/about/"      # The path to the content. It can lead to a single page (like here)
+identifier = "piano" # An unique identifier for the button
+name = "Piano"       # A display name for the button
+url = "/piano/"      # The path to the content. It can lead to a single page (like here)
 weight = 10          # A number to order the buttons in the navbar
 
-[[menu.main]]
-identifier = "posts"
-name = "All posts"
-url = "/post/"       # The path can lead to a content folder too.
-weight = 20
+# [[menu.main]]
+# identifier = "posts"
+# name = "All posts"
+# url = "/post/"       # The path can lead to a content folder too.
+# weight = 20
 
 [taxonomies]
 category = "categories"
